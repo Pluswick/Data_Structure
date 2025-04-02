@@ -1,0 +1,274 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tjdgk\\source\\repos\\linkedList_1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D451D81E-F2D6-4046-AE4B-4D95F8BC85EC}|linkedList_1\\linkedList_1.vcxproj|C:\\Users\\tjdgk\\source\\repos\\linkedList_1\\linkedList_1\\ex4_5.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D451D81E-F2D6-4046-AE4B-4D95F8BC85EC}|linkedList_1\\linkedList_1.vcxproj|solutionrelative:linkedList_1\\ex4_5.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D451D81E-F2D6-4046-AE4B-4D95F8BC85EC}|linkedList_1\\linkedList_1.vcxproj|C:\\Users\\tjdgk\\source\\repos\\linkedList_1\\linkedList_1\\PolyLinkedList.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D451D81E-F2D6-4046-AE4B-4D95F8BC85EC}|linkedList_1\\linkedList_1.vcxproj|solutionrelative:linkedList_1\\PolyLinkedList.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D451D81E-F2D6-4046-AE4B-4D95F8BC85EC}|linkedList_1\\linkedList_1.vcxproj|C:\\Users\\tjdgk\\source\\repos\\linkedList_1\\linkedList_1\\PolyLinkedList.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D451D81E-F2D6-4046-AE4B-4D95F8BC85EC}|linkedList_1\\linkedList_1.vcxproj|solutionrelative:linkedList_1\\PolyLinkedList.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D451D81E-F2D6-4046-AE4B-4D95F8BC85EC}|linkedList_1\\linkedList_1.vcxproj|C:\\Users\\tjdgk\\source\\repos\\linkedList_1\\linkedList_1\\ex4_4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D451D81E-F2D6-4046-AE4B-4D95F8BC85EC}|linkedList_1\\linkedList_1.vcxproj|solutionrelative:linkedList_1\\ex4_4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D451D81E-F2D6-4046-AE4B-4D95F8BC85EC}|linkedList_1\\linkedList_1.vcxproj|C:\\Users\\tjdgk\\source\\repos\\linkedList_1\\linkedList_1\\DoubleLinkedList.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D451D81E-F2D6-4046-AE4B-4D95F8BC85EC}|linkedList_1\\linkedList_1.vcxproj|solutionrelative:linkedList_1\\DoubleLinkedList.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D451D81E-F2D6-4046-AE4B-4D95F8BC85EC}|linkedList_1\\linkedList_1.vcxproj|C:\\Users\\tjdgk\\source\\repos\\linkedList_1\\linkedList_1\\DoubleLinkedList.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D451D81E-F2D6-4046-AE4B-4D95F8BC85EC}|linkedList_1\\linkedList_1.vcxproj|solutionrelative:linkedList_1\\DoubleLinkedList.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D451D81E-F2D6-4046-AE4B-4D95F8BC85EC}|linkedList_1\\linkedList_1.vcxproj|C:\\Users\\tjdgk\\source\\repos\\linkedList_1\\linkedList_1\\ex4_3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D451D81E-F2D6-4046-AE4B-4D95F8BC85EC}|linkedList_1\\linkedList_1.vcxproj|solutionrelative:linkedList_1\\ex4_3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D451D81E-F2D6-4046-AE4B-4D95F8BC85EC}|linkedList_1\\linkedList_1.vcxproj|C:\\Users\\tjdgk\\source\\repos\\linkedList_1\\linkedList_1\\CircularLinkdeList.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D451D81E-F2D6-4046-AE4B-4D95F8BC85EC}|linkedList_1\\linkedList_1.vcxproj|solutionrelative:linkedList_1\\CircularLinkdeList.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D451D81E-F2D6-4046-AE4B-4D95F8BC85EC}|linkedList_1\\linkedList_1.vcxproj|C:\\Users\\tjdgk\\source\\repos\\linkedList_1\\linkedList_1\\CircularLinkedList.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D451D81E-F2D6-4046-AE4B-4D95F8BC85EC}|linkedList_1\\linkedList_1.vcxproj|solutionrelative:linkedList_1\\CircularLinkedList.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D451D81E-F2D6-4046-AE4B-4D95F8BC85EC}|linkedList_1\\linkedList_1.vcxproj|C:\\Users\\tjdgk\\source\\repos\\linkedList_1\\linkedList_1\\ex4_2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D451D81E-F2D6-4046-AE4B-4D95F8BC85EC}|linkedList_1\\linkedList_1.vcxproj|solutionrelative:linkedList_1\\ex4_2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D451D81E-F2D6-4046-AE4B-4D95F8BC85EC}|linkedList_1\\linkedList_1.vcxproj|C:\\Users\\tjdgk\\source\\repos\\linkedList_1\\linkedList_1\\LinkedList.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D451D81E-F2D6-4046-AE4B-4D95F8BC85EC}|linkedList_1\\linkedList_1.vcxproj|solutionrelative:linkedList_1\\LinkedList.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D451D81E-F2D6-4046-AE4B-4D95F8BC85EC}|linkedList_1\\linkedList_1.vcxproj|C:\\Users\\tjdgk\\source\\repos\\linkedList_1\\linkedList_1\\LinkedList.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D451D81E-F2D6-4046-AE4B-4D95F8BC85EC}|linkedList_1\\linkedList_1.vcxproj|solutionrelative:linkedList_1\\LinkedList.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D451D81E-F2D6-4046-AE4B-4D95F8BC85EC}|linkedList_1\\linkedList_1.vcxproj|C:\\Users\\tjdgk\\source\\repos\\linkedList_1\\linkedList_1\\InsertLinkedList.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D451D81E-F2D6-4046-AE4B-4D95F8BC85EC}|linkedList_1\\linkedList_1.vcxproj|solutionrelative:linkedList_1\\InsertLinkedList.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D451D81E-F2D6-4046-AE4B-4D95F8BC85EC}|linkedList_1\\linkedList_1.vcxproj|C:\\Users\\tjdgk\\source\\repos\\linkedList_1\\linkedList_1\\ex4_1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D451D81E-F2D6-4046-AE4B-4D95F8BC85EC}|linkedList_1\\linkedList_1.vcxproj|solutionrelative:linkedList_1\\ex4_1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D451D81E-F2D6-4046-AE4B-4D95F8BC85EC}|linkedList_1\\linkedList_1.vcxproj|C:\\Users\\tjdgk\\source\\repos\\linkedList_1\\linkedList_1\\InsertLinkedList.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D451D81E-F2D6-4046-AE4B-4D95F8BC85EC}|linkedList_1\\linkedList_1.vcxproj|solutionrelative:linkedList_1\\InsertLinkedList.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ex4_5.c",
+              "DocumentMoniker": "C:\\Users\\tjdgk\\source\\repos\\linkedList_1\\linkedList_1\\ex4_5.c",
+              "RelativeDocumentMoniker": "linkedList_1\\ex4_5.c",
+              "ToolTip": "C:\\Users\\tjdgk\\source\\repos\\linkedList_1\\linkedList_1\\ex4_5.c",
+              "RelativeToolTip": "linkedList_1\\ex4_5.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-04-02T11:59:07.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PolyLinkedList.c",
+              "DocumentMoniker": "C:\\Users\\tjdgk\\source\\repos\\linkedList_1\\linkedList_1\\PolyLinkedList.c",
+              "RelativeDocumentMoniker": "linkedList_1\\PolyLinkedList.c",
+              "ToolTip": "C:\\Users\\tjdgk\\source\\repos\\linkedList_1\\linkedList_1\\PolyLinkedList.c",
+              "RelativeToolTip": "linkedList_1\\PolyLinkedList.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-04-02T11:53:08.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PolyLinkedList.h",
+              "DocumentMoniker": "C:\\Users\\tjdgk\\source\\repos\\linkedList_1\\linkedList_1\\PolyLinkedList.h",
+              "RelativeDocumentMoniker": "linkedList_1\\PolyLinkedList.h",
+              "ToolTip": "C:\\Users\\tjdgk\\source\\repos\\linkedList_1\\linkedList_1\\PolyLinkedList.h",
+              "RelativeToolTip": "linkedList_1\\PolyLinkedList.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-02T11:52:48.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ex4_4.c",
+              "DocumentMoniker": "C:\\Users\\tjdgk\\source\\repos\\linkedList_1\\linkedList_1\\ex4_4.c",
+              "RelativeDocumentMoniker": "linkedList_1\\ex4_4.c",
+              "ToolTip": "C:\\Users\\tjdgk\\source\\repos\\linkedList_1\\linkedList_1\\ex4_4.c",
+              "RelativeToolTip": "linkedList_1\\ex4_4.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-04-02T11:51:50.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DoubleLinkedList.c",
+              "DocumentMoniker": "C:\\Users\\tjdgk\\source\\repos\\linkedList_1\\linkedList_1\\DoubleLinkedList.c",
+              "RelativeDocumentMoniker": "linkedList_1\\DoubleLinkedList.c",
+              "ToolTip": "C:\\Users\\tjdgk\\source\\repos\\linkedList_1\\linkedList_1\\DoubleLinkedList.c",
+              "RelativeToolTip": "linkedList_1\\DoubleLinkedList.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-04-02T11:51:22.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DoubleLinkedList.h",
+              "DocumentMoniker": "C:\\Users\\tjdgk\\source\\repos\\linkedList_1\\linkedList_1\\DoubleLinkedList.h",
+              "RelativeDocumentMoniker": "linkedList_1\\DoubleLinkedList.h",
+              "ToolTip": "C:\\Users\\tjdgk\\source\\repos\\linkedList_1\\linkedList_1\\DoubleLinkedList.h",
+              "RelativeToolTip": "linkedList_1\\DoubleLinkedList.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-02T11:51:07.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ex4_3.c",
+              "DocumentMoniker": "C:\\Users\\tjdgk\\source\\repos\\linkedList_1\\linkedList_1\\ex4_3.c",
+              "RelativeDocumentMoniker": "linkedList_1\\ex4_3.c",
+              "ToolTip": "C:\\Users\\tjdgk\\source\\repos\\linkedList_1\\linkedList_1\\ex4_3.c",
+              "RelativeToolTip": "linkedList_1\\ex4_3.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-04-02T11:49:05.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CircularLinkdeList.c",
+              "DocumentMoniker": "C:\\Users\\tjdgk\\source\\repos\\linkedList_1\\linkedList_1\\CircularLinkdeList.c",
+              "RelativeDocumentMoniker": "linkedList_1\\CircularLinkdeList.c",
+              "ToolTip": "C:\\Users\\tjdgk\\source\\repos\\linkedList_1\\linkedList_1\\CircularLinkdeList.c",
+              "RelativeToolTip": "linkedList_1\\CircularLinkdeList.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-04-02T11:48:37.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CircularLinkedList.h",
+              "DocumentMoniker": "C:\\Users\\tjdgk\\source\\repos\\linkedList_1\\linkedList_1\\CircularLinkedList.h",
+              "RelativeDocumentMoniker": "linkedList_1\\CircularLinkedList.h",
+              "ToolTip": "C:\\Users\\tjdgk\\source\\repos\\linkedList_1\\linkedList_1\\CircularLinkedList.h",
+              "RelativeToolTip": "linkedList_1\\CircularLinkedList.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-02T11:48:21.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ex4_2.c",
+              "DocumentMoniker": "C:\\Users\\tjdgk\\source\\repos\\linkedList_1\\linkedList_1\\ex4_2.c",
+              "RelativeDocumentMoniker": "linkedList_1\\ex4_2.c",
+              "ToolTip": "C:\\Users\\tjdgk\\source\\repos\\linkedList_1\\linkedList_1\\ex4_2.c",
+              "RelativeToolTip": "linkedList_1\\ex4_2.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-04-02T11:45:53.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LinkedList.c",
+              "DocumentMoniker": "C:\\Users\\tjdgk\\source\\repos\\linkedList_1\\linkedList_1\\LinkedList.c",
+              "RelativeDocumentMoniker": "linkedList_1\\LinkedList.c",
+              "ToolTip": "C:\\Users\\tjdgk\\source\\repos\\linkedList_1\\linkedList_1\\LinkedList.c",
+              "RelativeToolTip": "linkedList_1\\LinkedList.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-04-02T11:45:24.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LinkedList.h",
+              "DocumentMoniker": "C:\\Users\\tjdgk\\source\\repos\\linkedList_1\\linkedList_1\\LinkedList.h",
+              "RelativeDocumentMoniker": "linkedList_1\\LinkedList.h",
+              "ToolTip": "C:\\Users\\tjdgk\\source\\repos\\linkedList_1\\linkedList_1\\LinkedList.h",
+              "RelativeToolTip": "linkedList_1\\LinkedList.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-02T11:45:09.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ex4_1.c",
+              "DocumentMoniker": "C:\\Users\\tjdgk\\source\\repos\\linkedList_1\\linkedList_1\\ex4_1.c",
+              "RelativeDocumentMoniker": "linkedList_1\\ex4_1.c",
+              "ToolTip": "C:\\Users\\tjdgk\\source\\repos\\linkedList_1\\linkedList_1\\ex4_1.c",
+              "RelativeToolTip": "linkedList_1\\ex4_1.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-04-02T11:28:08.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "InsertLinkedList.c",
+              "DocumentMoniker": "C:\\Users\\tjdgk\\source\\repos\\linkedList_1\\linkedList_1\\InsertLinkedList.c",
+              "RelativeDocumentMoniker": "linkedList_1\\InsertLinkedList.c",
+              "ToolTip": "C:\\Users\\tjdgk\\source\\repos\\linkedList_1\\linkedList_1\\InsertLinkedList.c",
+              "RelativeToolTip": "linkedList_1\\InsertLinkedList.c",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAwwBQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-04-02T11:27:44.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "InsertLinkedList.h",
+              "DocumentMoniker": "C:\\Users\\tjdgk\\source\\repos\\linkedList_1\\linkedList_1\\InsertLinkedList.h",
+              "RelativeDocumentMoniker": "linkedList_1\\InsertLinkedList.h",
+              "ToolTip": "C:\\Users\\tjdgk\\source\\repos\\linkedList_1\\linkedList_1\\InsertLinkedList.h",
+              "RelativeToolTip": "linkedList_1\\InsertLinkedList.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-02T11:27:25.51Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
