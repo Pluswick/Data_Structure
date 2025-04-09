@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tjdgk\\source\\repos\\stack_01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CD763D31-E472-4B61-B4C8-1241A1E2B16E}|stack_01\\stack_01.vcxproj|C:\\Users\\tjdgk\\source\\repos\\stack_01\\stack_01\\stack.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CD763D31-E472-4B61-B4C8-1241A1E2B16E}|stack_01\\stack_01.vcxproj|solutionrelative:stack_01\\stack.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD763D31-E472-4B61-B4C8-1241A1E2B16E}|stack_01\\stack_01.vcxproj|C:\\Users\\tjdgk\\source\\repos\\stack_01\\stack_01\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CD763D31-E472-4B61-B4C8-1241A1E2B16E}|stack_01\\stack_01.vcxproj|solutionrelative:stack_01\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD763D31-E472-4B61-B4C8-1241A1E2B16E}|stack_01\\stack_01.vcxproj|C:\\Users\\tjdgk\\source\\repos\\stack_01\\stack_01\\stackS.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CD763D31-E472-4B61-B4C8-1241A1E2B16E}|stack_01\\stack_01.vcxproj|solutionrelative:stack_01\\stackS.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "stackS.h",
+              "DocumentMoniker": "C:\\Users\\tjdgk\\source\\repos\\stack_01\\stack_01\\stackS.h",
+              "RelativeDocumentMoniker": "stack_01\\stackS.h",
+              "ToolTip": "C:\\Users\\tjdgk\\source\\repos\\stack_01\\stack_01\\stackS.h",
+              "RelativeToolTip": "stack_01\\stackS.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-09T06:10:47.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "stack.c",
+              "DocumentMoniker": "C:\\Users\\tjdgk\\source\\repos\\stack_01\\stack_01\\stack.c",
+              "RelativeDocumentMoniker": "stack_01\\stack.c",
+              "ToolTip": "C:\\Users\\tjdgk\\source\\repos\\stack_01\\stack_01\\stack.c",
+              "RelativeToolTip": "stack_01\\stack.c",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAADcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-04-09T06:10:38.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main.c",
+              "DocumentMoniker": "C:\\Users\\tjdgk\\source\\repos\\stack_01\\stack_01\\main.c",
+              "RelativeDocumentMoniker": "stack_01\\main.c",
+              "ToolTip": "C:\\Users\\tjdgk\\source\\repos\\stack_01\\stack_01\\main.c",
+              "RelativeToolTip": "stack_01\\main.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-04-09T06:03:54.311Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
